@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: TENZIN SAMA
 email: ""
 description: "Photo Journal"
 url: "https://tkunsel.github.io"
-baseurl: ""
+baseurl: "/tenzinsama"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://tkunsel.github.io/gallery/"  
-  - JOURNAL: "https://tkunsel.github.io/journal/"
-  - ABOUT: "https://tkunsel.github.io/about/"
+  - GALLERY: "https://tkunsel.github.io/tenzinsama/gallery/"  
+  - JOURNAL: "https://tkunsel.github.io/tenzinsama/journal/"
+  - ABOUT: "https://tkunsel.github.io/tenzinsama/about/"
 
 # All translation keys
 translations:
