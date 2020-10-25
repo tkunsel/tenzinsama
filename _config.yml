@@ -1,7 +1,7 @@
 # Site settings
 title: TENZIN SAMA
 email: ""
-description: "Photo Journal"
+description: "SKETCH"
 url: "https://tkunsel.github.io"
 baseurl: "/tenzinsama"
 facebook_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Tenzin Kunsel
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
